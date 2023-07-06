@@ -1,3 +1,13 @@
+# Output
+
+<img src="./Screenshot%202023-07-06%20110521.png"  align="center" />
+<img src="./Screenshot%202023-07-06%20110556.png"  align="center" />
+<img src="./Screenshot%202023-07-06%20110630.png"  align="center" />
+<img src="./Screenshot%202023-07-06%20110651.png"  align="center" />
+
+
+
+
 # refine-project
 
 <div align="center" style="margin: 30px;">
@@ -6,6 +16,7 @@
     </a>
 </div>
 <br/>
+
 
 This [refine](https://github.com/refinedev/refine) project was generated with [superplate](https://github.com/pankod/superplate).
 
